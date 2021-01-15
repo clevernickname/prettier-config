@@ -1,0 +1,14 @@
+{
+	"arrowParens": "always",
+    "bracketSpacing": true,
+	"enable": true,
+	"endOfLine": "auto",
+	"proseWrap": "preserve",
+	"printWidth": 80,
+	"quoteProps": "as-needed",
+	"requireConfig": false,
+	"semi": true,
+    "singleQuote": true,
+	"tabWidth": 2,
+    "trailingComma": "es5"
+}
