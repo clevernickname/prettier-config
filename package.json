@@ -1,9 +1,9 @@
 {
-  "name": "@clevernickname/prettier-config",
-  "version": "1.0.0",
-  "description": "Prettier Config",
-  "main": "index.json",
-  "repository": "git@github.com:clevernickname/prettier-config.git",
-  "author": "John Green",
-  "license": "MIT"
+            "name": "@clevernickname/prettier-config",
+            "version": "1.0.1",
+            "description": "Prettier Config",
+            "main": "index.json",
+            "repository": "git@github.com:clevernickname/prettier-config.git",
+            "author": "John Green",
+            "license": "MIT"
 }
