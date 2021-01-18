@@ -14,8 +14,8 @@ npm install --save-dev @clevernickname/prettier-config
 
 **Edit `package.json`**:
 
-```jsonc
-{
+```
+"scripts": {
   // ...
 
   "prettier": "@clevernickname/prettier-config"
